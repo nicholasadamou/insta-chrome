@@ -14,7 +14,7 @@
 
 ## What is _insta-chrome_? 🤔
 
-Easily browse Instagram from a chrome popup.
+Easily browse Instagram from a Chrome popup.
 
 - All information stays local, extension is just a few lines of JavaScript. 🎉
 
