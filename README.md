@@ -1,6 +1,6 @@
-# 📸 instachrome [![Build Status](https://travis-ci.org/nicholasadamou/instachrome.svg?branch=master)](https://travis-ci.org/nicholasadamou/instachrome)
+# 📸 insta-chrome [![Build Status](https://travis-ci.org/nicholasadamou/insta-chrome.svg?branch=master)](https://travis-ci.org/nicholasadamou/insta-chrome)
 
-## What is _instachrome_? 🤔
+## What is _insta-chrome_? 🤔
 
 Easily browse Instagram from a chrome popup.
 
@@ -13,8 +13,8 @@ Easily browse Instagram from a chrome popup.
 Clone the repository and install all dependencies by running:
 
 ```bash
-git clone https://github.com/nicholasadamou/instachrome
-cd instachrome/
+git clone https://github.com/nicholasadamou/insta-chrome
+cd insta-chrome/
 yarn install # Optionally, 'npm' can be used instead.
 ```
 
@@ -32,4 +32,4 @@ Then, open `https://localhost:9966`.
 
 Copyright (c) 2019 by Nicholas Adamou. Some rights reserved.
 
-`instachrome` is under the terms of the **MIT License**, following all clarifications stated in the [license file](license.md).
+`insta-chrome` is under the terms of the **MIT License**, following all clarifications stated in the [license file](license.md).
