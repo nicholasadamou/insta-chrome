@@ -1,4 +1,19 @@
-# 📸 insta-chrome [![Build Status](https://travis-ci.org/nicholasadamou/insta-chrome.svg?branch=master)](https://travis-ci.org/nicholasadamou/insta-chrome)
+# 📸 insta-chrome
+
+<p>
+  <a href="https://david-dm.org/nicholasadamou/insta-chrome#info=devDependencies">
+      <img src="https://img.shields.io/david/dev/nicholasadamou/insta-chrome.svg?style=flat-square" alt="devDependencies">
+  </a>
+  <a href="https://dependabot.com">
+      <img src="https://api.dependabot.com/badges/status?host=github&repo=nicholasadamou/insta-chrome" alt="dependabot">
+  </a>
+  <a href="https://travis-ci.org/nicholasadamou/insta-chrome">
+      <img src="https://img.shields.io/travis/nicholasadamou/insta-chrome/master.svg?style=flat-square" alt="Build Status">
+  </a>
+  <a href="https://saythanks.io/to/NicholasAdamou">
+      <img src="https://img.shields.io/badge/say-thanks-ff69b4.svg" alt="Say Thanks">
+  </a>
+</p>
 
 ## What is _insta-chrome_? 🤔
 
@@ -27,6 +42,10 @@ yarn watch
 ```
 
 Then, open `https://localhost:9966`.
+
+## Credits
+
+- [Segment](https://open.segment.com/)'s [chrome-sidebar](https://www.npmjs.com/package/chrome-sidebar) module is used to embed an _iframe as a chrome extension_.
 
 ## License
 
