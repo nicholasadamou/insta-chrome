@@ -1,9 +1,6 @@
 # 📸 insta-chrome
 
 <p>
-  <a href="https://david-dm.org/nicholasadamou/insta-chrome#info=devDependencies">
-      <img src="https://img.shields.io/david/dev/nicholasadamou/insta-chrome.svg?style=flat-square" alt="devDependencies">
-  </a>
   <a href="https://dependabot.com">
       <img src="https://api.dependabot.com/badges/status?host=github&repo=nicholasadamou/insta-chrome" alt="dependabot">
   </a>
@@ -20,8 +17,6 @@
 Easily browse Instagram from a chrome popup.
 
 - All information stays local, extension is just a few lines of JavaScript. 🎉
-
----
 
 ## How to Use
 

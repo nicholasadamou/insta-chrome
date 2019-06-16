@@ -1,26 +1,27 @@
 {
   "name": "insta-chrome",
-  "version": "0.0.5",
-  "description": "",
+  "version": "1.0.0",
+  "description": "Easily browse Instagram from a chrome popup.",
   "main": "index.js",
   "scripts": {
     "webpack": "webpack",
     "build": "npm run webpack",
-    "watch": "node ./watch"
+    "watch": "node ./watch",
+    "update": "npx yarn-check -u"
   },
   "author": "nicholasadamouemail@gmail.com",
   "license": "MIT",
   "devDependencies": {
-    "babel-core": "~6.24.1",
+    "babel-core": "~6.26.3",
     "babel-loader": "~7.0.0",
     "babel-preset-env": "^1.7.0",
     "babel-preset-react": "~6.24.1",
     "babel-preset-stage-0": "~6.24.1",
     "bundle-loader": "~0.5.5",
-    "copy-webpack-plugin": "~4.0.1",
-    "html-webpack-plugin": "~2.28.0",
-    "webpack": "~2.4.1",
-    "webpack-dev-server": "~2.4.5"
+    "copy-webpack-plugin": "~4.6.0",
+    "html-webpack-plugin": "~3.2.0",
+    "webpack": "~2.7.0",
+    "webpack-dev-server": ">=3.1.11"
   },
   "dependencies": {
     "chrome-sidebar": "~0.1.2",
