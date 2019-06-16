@@ -1,7 +1,7 @@
 {
   "name": "insta-chrome",
   "version": "1.0.0",
-  "description": "Easily browse Instagram from a chrome popup.",
+  "description": "Easily browse Instagram from a Chrome popup.",
   "main": "index.js",
   "scripts": {
     "webpack": "webpack",
