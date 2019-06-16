@@ -3,7 +3,6 @@ const CopyWebpackPlugin = require('copy-webpack-plugin')
 const path = require('path')
 
 module.exports = {
-  mode: 'production',
   entry: {
     browser: './src/index.js',
     background: './src/background.js',
