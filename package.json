@@ -7,7 +7,11 @@
     "webpack": "webpack",
     "build": "npm run webpack",
     "watch": "node ./watch",
-    "update": "npx yarn-check -u"
+    "update": "npx yarn-check -u",
+    "snyk-protect": "snyk protect",
+    "prepare": "npx yarn run snyk-protect",
+    "test": "snyk test",
+    "prepublish": "npm run snyk-protect"
   },
   "author": "nicholasadamouemail@gmail.com",
   "license": "MIT",
@@ -22,11 +26,12 @@
     "html-webpack-plugin": "~3.2.0",
     "webpack": "~4.35.0",
     "webpack-cli": "^3.3.4",
-    "webpack-dev-server": ">=3.1.11"
+    "webpack-dev-server": "3.7.2"
   },
   "dependencies": {
     "chrome-sidebar": "~0.1.2",
     "react": "~15.6.2",
     "react-dom": "~15.6.2"
-  }
+  },
+  "snyk": true
 }
