@@ -1,9 +1,6 @@
 # 📸 insta-chrome
 
 <p>
-  <a href="https://dependabot.com">
-      <img src="https://api.dependabot.com/badges/status?host=github&repo=nicholasadamou/insta-chrome" alt="dependabot">
-  </a>
   <a href="https://travis-ci.org/nicholasadamou/insta-chrome">
       <img src="https://img.shields.io/travis/nicholasadamou/insta-chrome/master.svg?style=flat-square" alt="Build Status">
   </a>
