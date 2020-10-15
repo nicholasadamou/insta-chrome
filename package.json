@@ -27,7 +27,7 @@
   },
   "dependencies": {
     "chrome-sidebar": "~0.1.2",
-    "react": "~15.6.2",
+    "react": "~15.7.0",
     "react-dom": "~15.6.2"
   }
 }
