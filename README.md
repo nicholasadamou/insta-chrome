@@ -1,14 +1,5 @@
 # 📸 insta-chrome
 
-<p>
-  <a href="https://travis-ci.org/nicholasadamou/insta-chrome">
-      <img src="https://img.shields.io/travis/nicholasadamou/insta-chrome/master.svg?style=flat-square" alt="Build Status">
-  </a>
-  <a href="https://saythanks.io/to/NicholasAdamou">
-      <img src="https://img.shields.io/badge/say-thanks-ff69b4.svg" alt="Say Thanks">
-  </a>
-</p>
-
 ## What is _insta-chrome_? 🤔
 
 Easily browse Instagram from a Chrome popup.
