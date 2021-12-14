@@ -16,6 +16,12 @@ cd insta-chrome/
 yarn install # Optionally, 'npm' can be used instead.
 ```
 
+Next, build the application:
+
+```bash
+yarn build
+```
+
 Finally, toss the contents of the `./build/` directory into [`chrome://extensions`](chrome://extensions).
 
 ## Watching
